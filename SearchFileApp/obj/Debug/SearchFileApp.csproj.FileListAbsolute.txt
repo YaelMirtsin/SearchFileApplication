@@ -1,0 +1,7 @@
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\SearchFileApp\bin\Debug\SearchFileApp.exe.config
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\SearchFileApp\bin\Debug\SearchFileApp.exe
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\SearchFileApp\bin\Debug\SearchFileApp.pdb
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\SearchFileApp\obj\Debug\SearchFileApp.csprojAssemblyReference.cache
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\SearchFileApp\obj\Debug\SearchFileApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\SearchFileApp\obj\Debug\SearchFileApp.exe
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\SearchFileApp\obj\Debug\SearchFileApp.pdb

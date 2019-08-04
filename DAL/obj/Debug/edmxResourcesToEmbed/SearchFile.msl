@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SearchFileDBModelStoreContainer" CdmEntityContainer="SearchFileDBEntities">
+    <EntitySetMapping Name="searchFileLogs">
+      <EntityTypeMapping TypeName="SearchFileDBModel.searchFileLog">
+        <MappingFragment StoreEntitySet="searchFileLog">
+          <ScalarProperty Name="searchDate" ColumnName="searchDate" />
+          <ScalarProperty Name="resultPatternPath" ColumnName="resultPatternPath" />
+          <ScalarProperty Name="searchPatternPath" ColumnName="searchPatternPath" />
+          <ScalarProperty Name="seachPattern" ColumnName="seachPattern" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

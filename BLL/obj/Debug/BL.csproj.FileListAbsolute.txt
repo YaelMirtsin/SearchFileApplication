@@ -1,0 +1,15 @@
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\BLL\bin\Debug\BLL.dll.config
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\BLL\bin\Debug\BLL.dll
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\BLL\bin\Debug\BLL.pdb
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\BLL\bin\Debug\DAL.dll
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\BLL\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\BLL\bin\Debug\DAL.pdb
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\BLL\bin\Debug\DAL.dll.config
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\BLL\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\BLL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\BLL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\BLL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\BLL\obj\Debug\BLL.dll
+C:\Users\USER\source\ADOEntityFramework\SearchFileApp\BLL\obj\Debug\BLL.pdb
